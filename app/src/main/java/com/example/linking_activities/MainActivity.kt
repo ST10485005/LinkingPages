@@ -18,5 +18,7 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
+        //this is a comment to test the commit and push fuinctions inside andorid studio
+
     }
 }
